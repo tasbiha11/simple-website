@@ -39,13 +39,39 @@ h2{
 }
 .half-width{
     margin-left: 35px;
-}
+    
+ }
+
 .half-width img{
     width:32%;
 }
+  
 p{
     color:purple;
     font-weight: bolder;
     text-align:justify;
     margin: 25px;
+}
+
+#dif{
+    color:purple;
+    font-weight:bolder;
+}
+#space{
+    margin-top: 70px;
+    background-image:linear-gradient(plum, rgb(158, 30, 158));
+    padding:10px 10px;
+    border-radius:10px;
+}
+.divclass{
+    margin-top: 70px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-image:linear-gradient(plum, rgb(158, 30, 158));
+    padding:10px 10px;
+    border-radius:10px;
+}
+.foot{
+    text-align:center;
+    margin-top: 200px;
 }
